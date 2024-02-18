@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Ujjwal Butola
 - 👀 I’m interested in Big Data, Data Analysis , Visualization, Python, Data Science
-- 🌱 I’m currently learning Machine Learning using Python
 - 💞️ I’m looking to collaborate on big data analysis and other data science related topics and projects
 - 📫 How to reach me by mail- ujjwalbutola@gmail.com
 - 😄 Pronouns: He/Him
